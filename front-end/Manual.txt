@@ -1,0 +1,13 @@
+Projeto foi sendo incrementado ao longo do curso. Só tive a oportunidade de apresentar na aula da professora Anna, devido a sincronia com a minha carga horária de trabalho.
+A idéia era chegar no final do curso com um mini ERP para o Infnet.
+
+Manual para rodar a aplicação Dektop desenvolvida em Flutter para o projeto da matéria JAVA EE do professor Jonh:
+
+1- O flutter deve está atualizado na IDE VScode, e estando no canal stable.
+
+2- Para rodar um projeto já existente no flutter para o windows basta entrar no arquivo main e clicar em f5 para rodar o ERP Infnet em modo de debug pois existem alguns brackpoints no projeto e para proseguir é só avançar na seta do debug dando um play.
+
+Esse projeto se conecta com o backend em JAVA configurado para se conectar a porta 8080 do localhost, claro após o serviço em java está rodando.
+
+Obrigado pelas excelentes aulas e pena não ter conseguido aproveitar ao máximo sua bela didátita.
+

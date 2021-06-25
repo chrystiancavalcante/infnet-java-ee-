@@ -1,0 +1,15 @@
+Projeto foi sendo incrementado ao longo do curso. Só tive a oportunidade de apresentar na aula da professora Anna, devido a sincronia com a minha carga horária de trabalho.
+A idéia era chegar no final do curso com um mini ERP para o Infnet.
+
+O projeto está se conectando ao banco de dados na RDS e estou usando o JWT para o login que não está ainda 100% no frontend mais podendo ser testado no postman.
+
+A idéia era criar módulos totalmente desacoplados, como: Módulo de cadastros, Compras, Estoque etc.
+
+Manual para rodar o serviço do projeto da matéria JAVA EE do professor Jonh:
+
+1- Para rodar, basta está com o arquivo TiqueApplication.java aberto na IDE VScode e Clicar em RUN 
+
+Esse projeto está configurado para rodar a porta 8080 do localhost.
+
+Obrigado pelas excelentes aulas e pena não ter conseguido aproveitar ao máximo sua bela didátita.
+
